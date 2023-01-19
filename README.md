@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Project Euler](https://projecteuler.net/profile/Rupeshk.png)
+
 <!--
 **rupe5h/rupe5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
